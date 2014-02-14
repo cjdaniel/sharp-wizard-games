@@ -3,18 +3,20 @@ Sharp Wizard games
 
 A small collection of horrible games that, as a teenager, I made and distributed for my electronic organizer, the Sharp Wizard OZ-7xx series. Some of them are in BASIC, which was sanctioned by Sharp's provided SDK. The marginally more interesting games are written in C and compiled to Z80 assembly. The Wizard had a Z80 processor, so Alex Pruss wrote a C SDK for it, and people ran with it. There were even a few native assembly games!
 
-Following is the list of games, in the rough order that they were written:
+## The games
 
-BASIC games:
+### BASIC games
  - Password -- Guess the word to get to the next one. THRILLING. Includes three different versions.
  - Star Trek: The Mission of Choice -- I don't even remember.
  - Star Trek Trivia -- Trust me, it's accurate. At least, it was at the time.
 
-C/assembly games:
+### C/assembly games
  - OZ Clay Pigeons -- Try to hit a clay pigeon by firing at the right time. Semi-addictive. Inspired by my old friend Danny's suggestion!
  - Monopoly -- Yup, it's Monopoly. Missing some feature of the game (was it the Chance and Community Chest cards?) because I ran out of available memory.
  - Falldown -- This was a popular game on the TI-83, so I tried to write my own version. It's not as fancy, but it's almost as addictive.
  - WizBattleship -- Fully-functional for hotseat two-player (it will even blank the screen while you hand your organizer to your friend). I was going to add an AI but never got around to it.
+
+## What do?
 
 The .wzd files are directly installable to your OZ-7xx series Wizard. I only ever tested them on the OZ-730, so use at your own risk.
 

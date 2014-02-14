@@ -7,6 +7,8 @@ All of the C/assembly games have associated screenshots and icons.
 
 ## The games
 
+In roughly the order they were written, even ...
+
 ### BASIC games
  - Password -- Guess the word to get to the next one. THRILLING. Includes three different versions.
  - Star Trek: The Mission of Choice -- I don't even remember.

@@ -11,7 +11,7 @@ BASIC games:
  - Star Trek Trivia -- Trust me, it's accurate. At least, it was at the time.
 
 C/assembly games:
- - OZ Clay Pigeons -- Try to hit a clay pigeon by firing at the right time. Semi-addictive. Inspired my old friend Danny's suggestion!
+ - OZ Clay Pigeons -- Try to hit a clay pigeon by firing at the right time. Semi-addictive. Inspired by my old friend Danny's suggestion!
  - Monopoly -- Yup, it's Monopoly. Missing some feature of the game (was it the Chance and Community Chest cards?) because I ran out of available memory.
  - Falldown -- This was a popular game on the TI-83, so I tried to write my own version. It's not as fancy, but it's almost as addictive.
  - WizBattleship -- Fully-functional for hotseat two-player (it will even blank the screen while you hand your organizer to your friend). I was going to add an AI but never got around to it.

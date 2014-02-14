@@ -22,7 +22,7 @@ All of the C/assembly games have associated screenshots and icons.
 
 The .wzd files are directly installable to your OZ-7xx series Wizard. I only ever tested them on the OZ-730, so use at your own risk.
 
-The source code for the C/assembly games is under src/ in this repository. It's some of the first code I ever wrote, so don't expect much. :-) If for some reason, you want the code for the BASIC games, you can use one of the decompiler tools out there. I really don't know where I put it, and it's not worth looking at, anyway!
+The source code for the C/assembly games is some of the first code I ever wrote, so don't expect much. :-) If for some reason, you want the code for the BASIC games, you can use one of the decompiler tools out there. I really don't know where I put it, and it's not worth looking at, anyway!
 
 You can get the HiTech C SDK (and other cool Wizard-related things) here: http://www.lh.co.nz/ozdev/
 

@@ -3,6 +3,8 @@ Sharp Wizard games
 
 A small collection of horrible games that, as a teenager, I made and distributed for my electronic organizer, the Sharp Wizard OZ-7xx series. Some of them are in BASIC, which was sanctioned by Sharp's provided SDK. The marginally more interesting games are written in C and compiled to Z80 assembly. The Wizard had a Z80 processor, so Alex Pruss wrote a C SDK for it, and people ran with it. There were even a few native assembly games!
 
+All of the C/assembly games have associated screenshots and icons.
+
 ## The games
 
 ### BASIC games
